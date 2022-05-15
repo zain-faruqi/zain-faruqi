@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zain-faruqi
+- 👀 I’m interested in full-stack web development
+- 🌱 I’m currently learning React, Express, Socket.io, and Solidity
+- 💞️ I’m looking to collaborate on cool stuff
+- 📫 How to reach me zain@faruqi.us
